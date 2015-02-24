@@ -5,4 +5,4 @@ My weekly homework assignments for the MongoDB for DBAs (M102) certification off
 
 Also blogging my progress at [Mean Stack Ninja](http://www.meanstack.ninja) and tweeting [@meanstackninja](https://twitter.com/meanstackninja).
 
-*Missed week 3*
+*Missed week 3 and week 5*
